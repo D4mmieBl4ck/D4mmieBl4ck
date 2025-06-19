@@ -1,17 +1,11 @@
-<h2> Hi there 👋, I'm Ehis Fidelis! </h2>
-<h2>Software Engineer </h2>
+<h2> Hi there 👋, I'm Damilola Abraham! </h2>
+<h2>Frontend Engineer </h2>
 
     
-[![Ehis Fidelis Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damilola-abraham/)
+[![Damilola Abraham Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damilola-abraham/)
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I am a Software Engineer.
-Beyond the code, I am deeply passionate about continuously improving my skills. I enjoy taking up challenges and learning new programming languages and frameworks to expand my expertise.
-
-I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Physics.
-
-I am also a Volunteer Programming instructor  at Junior Tech Africa.
-
+Frontend Engineer with experience building responsive, user-focused websites and web applications using JavaScript, React, and WordPress. Proficient in clean code practices, API integration, performance optimization, and cross-functional collaboration. Passionate about crafting accessible interfaces and enhancing user experiences through thoughtful design.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=D4mmieBl4ck&label=Profile%20views&color=0e75b6&style=flat" alt="D4mmieBl4ck" /> </p>
 
